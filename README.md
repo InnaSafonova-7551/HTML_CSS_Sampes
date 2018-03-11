@@ -1,1 +1,1 @@
-# HTML_CSS_Sampes
+*Пример страницы HTML с подлюченным CSS*
